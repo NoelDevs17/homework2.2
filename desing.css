@@ -10,38 +10,29 @@
         text-align: center;
 }
 
-/* #h6 {
-    text-align: center;
-} */
 
-#footer {
-    text-align: center;
-    
+ div#contenedor {
+    width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
 }
-#colum1 {
-    border-collapse: separate;
-    border-spacing: 10px 5px;
-}
+div#contenedor section {
+    float: left;
+    width: 70%;
+  }
 
-#colum2 {
-    
-    border-collapse: separate;
-    border-spacing: 10px 5px;
-}
-.img1 {
-    border: deepskyblue;
-}
+  div#contenedor aside {
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+  }
 
-
-.center img{
-    width: 60vw;
-    height: 100vh;
-}
-
-#img-center {
+  #img-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 500;
     height: 500px;
+    
 }
