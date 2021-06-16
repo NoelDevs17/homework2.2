@@ -20,6 +20,7 @@
 div#contenedor section {
     float: left;
     width: 70%;
+    margin: auto;
   }
 
   div#contenedor aside {
@@ -36,3 +37,9 @@ div#contenedor section {
     height: 500px;
     
 }
+
+.container {
+    text-align: center;
+}
+
+
