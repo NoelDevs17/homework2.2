@@ -10,9 +10,10 @@
         text-align: center;
 }
 
-#fotos {
-    padding: 300px;
+#h6 {
+    text-align: center;
 }
+
 #footer {
     text-align: center;
     
@@ -26,4 +27,19 @@
     
     border-collapse: separate;
     border-spacing: 10px 5px;
+}
+.img1 {
+    border: deepskyblue;
+}
+
+
+.center img{
+    width: 60vw;
+    height: 100vh;
+}
+
+#img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
