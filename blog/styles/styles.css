@@ -30,13 +30,13 @@ div#contenedor section {
     margin-left: 5%;
   }
 
-  #img-center {
+  .ownImg {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 500;
     height: 500px;
-    
+    float: right;
 }
 
 #img1 {
