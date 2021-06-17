@@ -1,0 +1,54 @@
+#nav {
+    text-align: center;
+    font-language-override: normal;
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#h1body {
+        text-align: center;
+        align-content: center;
+}
+
+
+ div#contenedor {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+div#contenedor section {
+    float: left;
+    width: 70%;
+    margin: auto;
+  }
+
+  div#contenedor aside {
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+  }
+
+  .ownImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500;
+    height: 500px;
+    float: right;
+}
+
+#img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400;
+    height: 350;
+}
+.container {
+    text-align: center;
+}
+
+
+  
